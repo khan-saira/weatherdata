@@ -1,5 +1,7 @@
-{
-  "city": "Liverpool",
-  "temperature": "12°C",
-  "condition": "Cloudy"
-}
+[
+  {
+    "city": "Liverpool",
+    "temperature": "12°C",
+    "condition": "Cloudy"
+  }
+]

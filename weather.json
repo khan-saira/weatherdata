@@ -2,6 +2,7 @@
   {
     "city": "Liverpool",
     "temperature": "12°C",
-    "condition": "Cloudy"
+    "condition": "Cloudy",
+    "image": "assets/images/clouds.png"
   }
 ]
